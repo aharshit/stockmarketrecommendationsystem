@@ -1,3 +1,5 @@
+#this helps in extracting news using an API
+
 # importing the newsapi module
 from newsapi import NewsApiClient
 
